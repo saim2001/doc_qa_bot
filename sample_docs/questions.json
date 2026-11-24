@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "question": "How many days of annual leave do full-time employees get?",
+    "answerable": true,
+    "must_contain": [
+      "22"
+    ],
+    "source": "Lumora_Employee_Handbook.pdf"
+  },
+  {
+    "id": 2,
+    "question": "How long is the parental leave for the primary caregiver?",
+    "answerable": true,
+    "must_contain": [
+      "16 weeks"
+    ],
+    "source": "Lumora_Employee_Handbook.pdf"
+  },
+  {
+    "id": 3,
+    "question": "What is the hotel spending cap per night on business trips?",
+    "answerable": true,
+    "must_contain": [
+      "180"
+    ],
+    "source": "Lumora_Employee_Handbook.pdf"
+  },
+  {
+    "id": 4,
+    "question": "Which days are mandatory office days?",
+    "answerable": true,
+    "must_contain": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "source": "Lumora_Employee_Handbook.pdf"
+  },
+  {
+    "id": 5,
+    "question": "What is the notice period for an employee with 4 years of service?",
+    "answerable": true,
+    "must_contain": [
+      "60"
+    ],
+    "source": "Lumora_Employee_Handbook.pdf"
+  },
+  {
+    "id": 6,
+    "question": "How long do customers have to return a product for a refund?",
+    "answerable": true,
+    "must_contain": [
+      "45"
+    ],
+    "source": "Lumora_Refund_and_Returns_Policy.pdf"
+  },
+  {
+    "id": 7,
+    "question": "How much is the return shipping fee for a change-of-mind return?",
+    "answerable": true,
+    "must_contain": [
+      "8.95"
+    ],
+    "source": "Lumora_Refund_and_Returns_Policy.pdf"
+  },
+  {
+    "id": 8,
+    "question": "What restocking fee applies if the original packaging is missing?",
+    "answerable": true,
+    "must_contain": [
+      "15%"
+    ],
+    "source": "Lumora_Refund_and_Returns_Policy.pdf"
+  },
+  {
+    "id": 9,
+    "question": "Can I get a refund on a monthly Cloud Plus plan?",
+    "answerable": true,
+    "must_contain": [
+      "not refundable"
+    ],
+    "source": "Lumora_Refund_and_Returns_Policy.pdf"
+  },
+  {
+    "id": 10,
+    "question": "How many devices can the Lumora Hub connect to?",
+    "answerable": true,
+    "must_contain": [
+      "150"
+    ],
+    "source": "Lumora_Product_FAQ_and_Warranty.pdf"
+  },
+  {
+    "id": 11,
+    "question": "Does the Lumora Cam work on 5 GHz Wi-Fi?",
+    "answerable": true,
+    "must_contain": [
+      "2.4"
+    ],
+    "source": "Lumora_Product_FAQ_and_Warranty.pdf"
+  },
+  {
+    "id": 12,
+    "question": "How long is the warranty on the Lumora Bulb?",
+    "answerable": true,
+    "must_contain": [
+      "3 year"
+    ],
+    "source": "Lumora_Product_FAQ_and_Warranty.pdf"
+  },
+  {
+    "id": 13,
+    "question": "What does a solid red light on the Hub mean?",
+    "answerable": true,
+    "must_contain": [
+      "no internet"
+    ],
+    "source": "Lumora_Product_FAQ_and_Warranty.pdf"
+  },
+  {
+    "id": 14,
+    "question": "When is phone support available?",
+    "answerable": true,
+    "must_contain": [
+      "Monday",
+      "Friday"
+    ],
+    "source": "Lumora_Product_FAQ_and_Warranty.pdf"
+  },
+  {
+    "id": 15,
+    "question": "Can I transfer my warranty to someone who buys my used Hub?",
+    "answerable": true,
+    "must_contain": [
+      "cannot be transferred"
+    ],
+    "source": "Lumora_Product_FAQ_and_Warranty.pdf"
+  },
+  {
+    "id": 16,
+    "question": "Does Lumora offer a 401(k) match?",
+    "answerable": false,
+    "must_contain": [],
+    "source": null
+  },
+  {
+    "id": 17,
+    "question": "What is the Bluetooth range of the Lumora Hub?",
+    "answerable": false,
+    "must_contain": [],
+    "source": null
+  },
+  {
+    "id": 18,
+    "question": "Who is the CEO of Lumora?",
+    "answerable": false,
+    "must_contain": [],
+    "source": null
+  },
+  {
+    "id": 19,
+    "question": "Does Lumora offer relocation assistance for new hires?",
+    "answerable": false,
+    "must_contain": [],
+    "source": null
+  },
+  {
+    "id": 20,
+    "question": "Do you sell the Lumora Cam in a weatherproof outdoor version?",
+    "answerable": false,
+    "must_contain": [],
+    "source": null
+  }
+]
